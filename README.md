@@ -1,2 +1,2 @@
 # Gitチュートリアル！！
-# git編集
+-develop
